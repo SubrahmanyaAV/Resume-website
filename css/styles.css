@@ -37,9 +37,10 @@ hr{
 }
 
 a{
-    color: darkblue;
+    color: black;
     margin: 10px 20px;
     font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
     text-decoration: none;
 }
 
